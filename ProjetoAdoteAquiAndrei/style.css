@@ -1,0 +1,38 @@
+.logomenu{
+    float: left;
+    text-align: left;
+    width: 60%;
+    height: 30%;
+    background-color: gray;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: yellow;
+    font-weight: bolder;
+}
+.menudisplay{
+    float: right;
+    width: 40%;
+    height: 30%;
+    background-color: yellow;
+
+
+}
+.menudisplay li{
+    display: inline;
+    text-decoration: none;
+    padding: 5%;
+}
+.content{
+    text-align: justify;
+    font-size: 95%;
+    padding-right: 3%;
+    padding-left: 3%;
+    float: left;
+    color: white;
+   /* background-color: aliceblue; */
+}
+body   {
+ background: url(petfundo.jpg);
+ background-repeat: no-repeat;
+ background-size: 100%;
+    
+}
