@@ -1,0 +1,31 @@
+
+
+.header img{
+ width: 30vw;
+ height: 30vw;
+ margin-left: 34%;
+}
+
+.mainav {
+    
+    margin-top: 1%;
+    height: 18px;
+    border: 1px solid black;
+}
+
+.mainav ul,li{
+    display: inline;
+    padding: 5px;
+    
+}
+
+.mainav ul{
+
+    margin-left: 38%;
+}
+
+.redondo{
+    border-radius: 50%;
+}
+
+
